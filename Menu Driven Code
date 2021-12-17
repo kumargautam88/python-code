@@ -1,0 +1,13 @@
+#MENU DRIVEN CODE
+while True:
+    print("1. \2. \3.")
+    option=int(input())
+    if option==1:
+        print("option 1")
+    elif option==2:
+        print("option 2")
+    elif option==3:
+        print("option 3")
+    else:
+        print("GOOD BYE")
+        break
